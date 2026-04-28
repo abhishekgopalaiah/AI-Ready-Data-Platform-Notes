@@ -480,12 +480,12 @@ Result: Production-ready AI data layer
 
 All files are in:
 ```
-/Users/4906031/Library/CloudStorage/OneDrive-Lowe'sCompaniesInc/Documents/abhishek/repo/notes/self/AI-Ready/
+/Documents/abhishek/repo/notes/self/AI-Ready/
 ```
 
 Code files are in:
 ```
-/Users/4906031/Projects/phase6_ai_platform/
+/Projects/phase6_ai_platform/
 ```
 
 ---
